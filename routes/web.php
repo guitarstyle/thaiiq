@@ -15,5 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/policy', function () {
-    return ('policy page');
+    return ('Hello world');
 });
